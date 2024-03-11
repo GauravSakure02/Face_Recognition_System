@@ -1,1 +1,3 @@
-# Facial recognition system using Python, OpenCV, and K-Nearest Neighbors (KNN) algorithm.
+# Facial-recognition-system 
+
+Using Python, OpenCV, and K-Nearest Neighbors (KNN) algorithm.
